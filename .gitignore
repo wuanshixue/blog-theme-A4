@@ -1,0 +1,10 @@
+node_modules/
+public/
+.deploy/
+npm-debug.log
+yarn-error.log
+.DS_Store
+.idea/
+.vscode/
+*.log
+.env
